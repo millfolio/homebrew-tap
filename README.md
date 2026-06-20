@@ -1,12 +1,12 @@
-# veilensapp/homebrew-tap
+# millfolio/homebrew-tap
 
-Homebrew tap for [**veilens**](https://veilens.app).
+Homebrew tap for [**millfolio**](https://millfolio.com).
 
 ```sh
-brew install veilensapp/tap/veilens
+brew install millfolio/tap/mill
 ```
 
-`brew install veilensapp/tap/veilens` resolves this repo (`veilensapp/homebrew-tap`)
-→ `Formula/veilens.rb`. The formula is generated per release by
-[`veilensapp/cli`](https://github.com/veilensapp/cli)'s
-`dist/homebrew/update-formula.sh`.
+`brew install millfolio/tap/mill` resolves this repo (`millfolio/homebrew-tap`)
+→ `Formula/mill.rb`. The formula is generated per release by
+[`millfolio/vault`](https://github.com/millfolio/vault)'s
+`cli/dist/homebrew/update-formula.sh`.
